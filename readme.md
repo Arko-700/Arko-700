@@ -61,7 +61,7 @@ Love to explore New Technologies and Tools. Willing to involve with a hard-worki
 ## Github Statistics
 <div align="center">
 
-   [![Arko's GitHub stats](https://github-readme-stats.vercel.app/api?username=arko-sengupta&show_icons=true&theme=swift&align=center)](https://github.com/arko-sengupta/arko-sengupta)
+   [![Arko's GitHub stats](https://github-readme-stats.vercel.app/api?username=arko-700&show_icons=true&theme=swift&align=center)](https://github.com/arko-700/arko-700)
  
  </div>
  
@@ -70,7 +70,7 @@ Love to explore New Technologies and Tools. Willing to involve with a hard-worki
  ## Languages Used
  <div align="center">
    
-   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arko-sengupta)](https://github.com/arko-sengupta/arko-sengupta)
+   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arko-700)](https://github.com/arko-700/arko-700)
    
   </div>
   
@@ -79,6 +79,6 @@ Love to explore New Technologies and Tools. Willing to involve with a hard-worki
    
    <div align="center">
    
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arko-sengupta&repo=The-Sparks-Foundation)](https://github.com/arko-sengupta/The-Sparks-Foundation) 
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arko-700&repo=The-Sparks-Foundation)](https://github.com/arko-700/The-Sparks-Foundation) 
    
   </div>
